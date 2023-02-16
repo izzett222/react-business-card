@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# description
+simple static business card with reactjs and tailwind. from scrimba react course
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
